@@ -18,5 +18,6 @@ Decisões tomadas
 ================
 
 - Mesmo com as 72h para fazer a aplicação, enfrentei alguns problemas com o tempo, devido a isso deicidi não focar tanto no front-end, e resolvi utilizar bootstrap para ganhar mais tempo.
-- Optei por utilizar Java e SpringBoot pois é um framework que tenho mais conhecimento e dominono, além disso sinto mais facilidade em aplicar conceitos de segurança com esse framework.
+- Optei por utilizar Java e SpringBoot pois é um framework que tenho mais conhecimento e dominio, além disso sinto mais facilidade em aplicar conceitos de desenvolvimento seguro, com esse framework.
 - Devido a tempo decidi focar o máximo do meu esforço somente na aplicação, e acabou que não deu tempo de fazer o video no youtube.
+- Se não houvesse tantos imprevistos no dia-a-dia, eu faria o tratamento de excessão de e-mail já cadastrado, validação de campos de entrada do usuário para evitar injeções de códigos e um front-end mais apresentavel e bonito.
